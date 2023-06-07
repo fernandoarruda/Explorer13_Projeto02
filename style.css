@@ -1,0 +1,10 @@
+body {
+  margin: 0px;
+  padding: 5px;
+}
+.page{
+  border: 1px solid #ff0000;
+  width: 1000px;
+  margin: 65px auto;
+  padding: 5px;
+}
